@@ -1,0 +1,7 @@
+phpsessid="dl5d7co7cjq83ruhkrug5d14d6" #You can find this in Developer Tools -> Application -> Cookies
+#This tool may work with multiple instances IF YOU SET different session id for each instance
+
+#Options below are optional, just if you want pre-set variables
+yourBankAccountID="421124856"
+yourBankAccountIP="89.63.98.96"
+virusName="Decent Spam.vspam"
